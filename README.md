@@ -5,6 +5,12 @@ p.5js week 5:noise 'Blobby'
 So this is a big yellow circle made from verticies, using a for loop and noise you can move the vertex's of the circle creating 'blobby'.
 p.5js week 5: noise 'worm' 
 You start by setting variables and the parameters of the cirle or worm thing, and by using noise and incrementing offset to move circle over time making a 'worm'
+Touch Designer week 10: lil planets 
+...
+Touch Designer week 10: particles
+...
+Touch Designer week 11: Twisting circle
+...
 
 A template students of 197191 can use to format their repositories for submission.
 
